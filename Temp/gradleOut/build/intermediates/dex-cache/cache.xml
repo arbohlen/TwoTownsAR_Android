@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/alexanderbohlen/.android/build-cache/d5b0d698b362443740229f45a01ac4f14cfd45f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e29373b760f2999cd878625efe4641edd156a3d0">
+        <dex dex="/Users/alexanderbohlen/TwoTownsAR_Android/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_5e77873d761f72e06843709f82a87d1bdefe56f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexanderbohlen/.android/build-cache/d5b0d698b362443740229f45a01ac4f14cfd45f2/output/jars/libs/VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1e5c98f1d2f1973f9a08b7849f319bcb135fe8c3">
+        <dex dex="/Users/alexanderbohlen/TwoTownsAR_Android/Temp/gradleOut/build/intermediates/pre-dexed/release/VuforiaUnityPlayer_e41cc7896ac9a7c623c8137ba3dab490c7ff7317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexanderbohlen/.android/build-cache/d5b0d698b362443740229f45a01ac4f14cfd45f2/output/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6051ae41196664b2d1144cd0f1e5626d09390520">
+        <dex dex="/Users/alexanderbohlen/TwoTownsAR_Android/Temp/gradleOut/build/intermediates/pre-dexed/release/Vuforia_863c727a7505b2f594e15463ef39d91971b786b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexanderbohlen/TwoTownsAR_Android/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2d302418aa3482b8db770278260340aed47dd37a">
+        <dex dex="/Users/alexanderbohlen/TwoTownsAR_Android/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_051ca9a1d27200808fb4cb83c2a90c02e6c9e78b.jar" />
+    </item>
+
+</items>
